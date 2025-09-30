@@ -1,0 +1,24 @@
+{
+  "name": "identify-companies",
+  "version": "1.0.0",
+  "main": "tracker.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimWriter/identify-companies.git"
+  },
+  "author": "Tim Schreiber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimWriter/identify-companies/issues"
+  },
+  "keywords": ["analytics", "tracking", "supabase", "edge-functions", "activity-logger"],
+  "homepage": "https://github.com/TimWriter/identify-companies#readme",
+  "description": "Lightweight client-side tracker for logging activities.",
+  "publishConfig": {
+  "@TimWriter:registry": "https://npm.pkg.github.com"
+}
+}
